@@ -1,0 +1,7 @@
+*.log
+*.~sql
+backup/*.sql
+/config.sql
+/task_to_deploy.sql
+/backup.sql
+/make_git_great_again.sql
